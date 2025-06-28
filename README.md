@@ -71,9 +71,11 @@ Identify key predictors of mental health treatment-seeking and help-seeking beha
 ---
 
 ## 📌 Project Structure
-.
+
 ├── survey.csv # Dataset file (not uploaded publicly for privacy)
+
 ├── EDA_Submission_Template.ipynb # Jupyter notebook with full analysis
+
 └── README.md # Project overview and documentation
 
 ---
@@ -94,6 +96,8 @@ This analysis demonstrates that workplace policies, culture, and communication c
 
 ## 🚀 Author
 
-- [Your Name]
-- [Your LinkedIn or Contact Info]
+- Pracheta Das
+- prachetadas27@gmail.com
+- +91 8017130475
+- www.linkedin.com/in/pracheta-das-27-9p
 
