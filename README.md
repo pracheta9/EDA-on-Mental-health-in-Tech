@@ -25,7 +25,7 @@ Identify key predictors of mental health treatment-seeking and help-seeking beha
 ## 📊 Dataset
 
 - **Source**: Mental Health in Tech Survey
-- **Rows**: 1,470 respondents
+- **Rows**: 1,259 respondents
 - **Columns**: 27 variables including demographics, mental health history, attitudes, workplace factors, and perceptions.
 
 ---
@@ -71,4 +71,29 @@ Identify key predictors of mental health treatment-seeking and help-seeking beha
 ---
 
 ## 📌 Project Structure
+.
+├── survey.csv # Dataset file (not uploaded publicly for privacy)
+├── EDA_Submission_Template.ipynb # Jupyter notebook with full analysis
+└── README.md # Project overview and documentation
+
+---
+
+## 📚 Technologies Used
+
+- Python (pandas, numpy, seaborn, matplotlib, scikit-learn)
+- Jupyter Notebook
+- Data visualization libraries: seaborn & matplotlib
+
+---
+
+## ✅ Conclusion
+
+This analysis demonstrates that workplace policies, culture, and communication can significantly impact employees’ mental health outcomes. By addressing these factors, organizations can proactively support employee well-being and improve overall productivity.
+
+---
+
+## 🚀 Author
+
+- [Your Name]
+- [Your LinkedIn or Contact Info]
 
