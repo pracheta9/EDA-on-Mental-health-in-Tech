@@ -72,9 +72,9 @@ Identify key predictors of mental health treatment-seeking and help-seeking beha
 
 ## 📌 Project Structure
 
-├── survey.csv # Dataset file (not uploaded publicly for privacy)
+├── survey.csv # Dataset file 
 
-├── EDA_Submission_Template.ipynb # Jupyter notebook with full analysis
+├── EDA_Submission_Template.ipynb # Colab notebook with full analysis
 
 └── README.md # Project overview and documentation
 
